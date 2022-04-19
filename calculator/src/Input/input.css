@@ -1,0 +1,16 @@
+.input {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 50px 0 20px 0 ;
+}
+
+input {
+    border: 1px solid;
+    text-align: right;
+    font-family: 'Barlow', sans-serif;
+    font-size: 22px;
+    border-radius: 6px;
+    width: 240px;
+    height: 40px;
+}

@@ -1,0 +1,41 @@
+.buttonStyle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 6px;
+  font-family: 'Barlow', sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.containerTotal {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.containerNumber{
+  text-align: center;
+  width: 190px;
+}
+
+.containerNumber :hover {
+  background-color: gray;
+}
+.containerButton{
+  width: 260px;
+  display:flex; 
+  flex-direction:row;
+}
+.containerOperations{
+  text-align: center;
+  justify-content: center;
+  width: 60px;
+}
+
+.containerOperations :hover {
+  background-color: gray;
+}

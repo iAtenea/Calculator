@@ -1,0 +1,9 @@
+.container {
+    font-family: 'Barlow', sans-serif;
+    font-size: 22px;
+   padding: 5;
+   width: 60px;
+   height: 60px;
+   border-radius: 50%;
+   background-color: #ffffff;
+}

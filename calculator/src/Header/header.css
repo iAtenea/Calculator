@@ -1,0 +1,25 @@
+.header {
+    background-color: #282c34;
+    padding: 15px 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Barlow', sans-serif;
+    width: 100%;
+
+}
+
+.titulo {
+    font-size: 40px;
+    color: #FFFFFF;
+    padding: 0 250px;
+    margin: 0;
+}
+
+.boton {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    margin-right: 400px;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+}
